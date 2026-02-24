@@ -94,3 +94,23 @@ Outputs include:
 - Decision Boundary Plot  
 
 ---
+
+## 🧠 Learning Outcomes
+
+- Instance-based learning  
+- Role of distance metrics  
+- Importance of normalization  
+- K selection strategy  
+- Visualization of classification boundaries  
+
+---
+
+## 👩‍💻 Author
+
+Ushasree Mundra
+
+---
+
+## ⭐ Conclusion
+
+This project demonstrates how KNN works using Euclidean distance and how selecting the correct value of K improves classification performance.
